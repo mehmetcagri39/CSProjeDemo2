@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MaasBordro/1.0.0": {
+        "dependencies": {
+          "CSProjeDemo2": "1.0.0"
+        },
+        "runtime": {
+          "MaasBordro.dll": {}
+        }
+      },
+      "CSProjeDemo2/1.0.0": {
+        "runtime": {
+          "CSProjeDemo2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaasBordro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSProjeDemo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
