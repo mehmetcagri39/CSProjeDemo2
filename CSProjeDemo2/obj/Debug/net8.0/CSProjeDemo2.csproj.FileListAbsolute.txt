@@ -1,0 +1,11 @@
+C:\Users\danye\source\repos\CSProjeDemo2\bin\Debug\net8.0\CSProjeDemo2.deps.json
+C:\Users\danye\source\repos\CSProjeDemo2\bin\Debug\net8.0\CSProjeDemo2.dll
+C:\Users\danye\source\repos\CSProjeDemo2\bin\Debug\net8.0\CSProjeDemo2.pdb
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\CSProjeDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\CSProjeDemo2.AssemblyInfoInputs.cache
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\CSProjeDemo2.AssemblyInfo.cs
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\CSProjeDemo2.csproj.CoreCompileInputs.cache
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\CSProjeDemo2.dll
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\refint\CSProjeDemo2.dll
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\CSProjeDemo2.pdb
+C:\Users\danye\source\repos\CSProjeDemo2\obj\Debug\net8.0\ref\CSProjeDemo2.dll

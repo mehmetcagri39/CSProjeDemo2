@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSProjeDemo2", "CSProjeDemo2.csproj", "{463585AD-BC66-4EC3-893C-783FF688CA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaasBordro", "..\MaasBordro\MaasBordro.csproj", "{0EA9CA71-5EBE-4C1C-996F-6E7FD0725546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463585AD-BC66-4EC3-893C-783FF688CA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463585AD-BC66-4EC3-893C-783FF688CA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463585AD-BC66-4EC3-893C-783FF688CA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463585AD-BC66-4EC3-893C-783FF688CA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA9CA71-5EBE-4C1C-996F-6E7FD0725546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA9CA71-5EBE-4C1C-996F-6E7FD0725546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA9CA71-5EBE-4C1C-996F-6E7FD0725546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA9CA71-5EBE-4C1C-996F-6E7FD0725546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F684348A-8BF3-4BBC-9F31-0721332C5B8B}
+	EndGlobalSection
+EndGlobal
